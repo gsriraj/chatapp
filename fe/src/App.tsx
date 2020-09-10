@@ -1,5 +1,5 @@
 import React from 'react';
-import {Button} from 'react-bootstrap';
+
 
 
 import './App.css';
@@ -8,7 +8,9 @@ import './App.css';
 function App() {
   return (
     <div>
-    <Button>Hello</Button>
+    <div className="alert alert-primary" role="alert">
+  A simple primary alert—check it out!
+</div>
       Hellooo world!
     </div>
   );
