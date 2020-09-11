@@ -7,7 +7,7 @@ import './chat-list.css';
 
 function ChatList() {
     return (
-        <div className="container">
+        <div className="container list-spec-bg" style={{padding:'2rem'}}>
             <div className="row">
                 <Header />
             </div>

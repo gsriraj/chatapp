@@ -1,3 +1,10 @@
 .list-spec {
     width: 100%
 }
+
+.list-spec-bg {
+    margin: 1rem;
+    border: solid;
+    border-width: thin;
+    height: 100%;
+}

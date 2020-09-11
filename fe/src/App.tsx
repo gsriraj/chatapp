@@ -10,10 +10,10 @@ function App() {
   return (
     <div className="container">
       <div className="row">
-        <div className="col-4">
+        <div className="col-4" style={{height: '45rem'}}>
           <ChatList />
         </div>
-        <div className="col-8">
+        <div className="col-8" style={{height: '45rem'}}>
           <ChatWindow />
         </div>
       </div>

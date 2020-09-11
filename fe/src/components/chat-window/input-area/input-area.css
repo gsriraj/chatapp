@@ -1,0 +1,17 @@
+.input-area-spec {
+    border: solid;
+    border-width: thin;
+    /* height: 5vh; */
+    height: 100%;
+    padding: 1rem 0;
+    
+}
+
+.input-box-spec {
+    width: 100%;
+}
+
+.padding-spec {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

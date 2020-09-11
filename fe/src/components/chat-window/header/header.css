@@ -1,0 +1,13 @@
+img {
+    border-radius: 50%;
+    width:40px;
+}
+.header-spec-chat {
+    border: solid;
+    border-width: thin;
+    margin-top: 1rem;
+    padding: 1rem 0;
+}
+.margin-spec {
+    margin-top: 0.4rem;
+}
