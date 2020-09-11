@@ -2,17 +2,17 @@ import React from 'react';
 
 
 
-import './header.css';
+import './input-area.css';
 
 
-function Header() {
+function InputArea() {
   return (
     <div className="container">
       <div className="row">
-            I am chat window header
+            I am input area
       </div>
     </div>
   );
 }
 
-export default Header;
+export default InputArea;

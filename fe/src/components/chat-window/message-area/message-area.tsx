@@ -2,17 +2,17 @@ import React from 'react';
 
 
 
-import './header.css';
+import './message-area.css';
 
 
-function Header() {
+function MessageArea() {
   return (
     <div className="container">
       <div className="row">
-            I am chat window header
+            I am message area
       </div>
     </div>
   );
 }
 
-export default Header;
+export default MessageArea;
