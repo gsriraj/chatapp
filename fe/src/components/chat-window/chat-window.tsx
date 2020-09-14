@@ -13,10 +13,10 @@ function ChatWindow() {
             <div className="row">
                 <Header />
             </div>
-            <div className="row" style={{height:'70%', marginTop:'5%'}}>
+            <div className="row" style={{height:'65%', marginTop:'5%'}}>
                 <MessageArea />
             </div>
-            <div className="row" style={{height:'10%', marginTop:'5%'}}>
+            <div className="row" style={{height:'11%', marginTop:'5%'}}>
                 <InputArea />
             </div>
         </div>

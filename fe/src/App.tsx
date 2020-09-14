@@ -8,8 +8,8 @@ import './App.css';
 
 function App() {
   return (
-    <div className="container">
-      <div className="row">
+    <div className="container-fluid">
+      <div className="row" style={{margin:'3rem'}}>
         <div className="col-4" style={{height: '45rem'}}>
           <ChatList />
         </div>
